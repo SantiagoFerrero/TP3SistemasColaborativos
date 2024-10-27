@@ -2,7 +2,7 @@ import * as React from 'react';
 import { useState, useEffect } from 'react';
 import { sp } from "@pnp/sp/presets/all"; // Importar PnP JS para manejar consultas a SharePoint
 import styles from './AgendaComponent.module.scss';
-
+//Esta es una Prueva de que se puede editar el codigo
 export interface IAgendaEvent {
   Title: string;
   StartDate: string;
